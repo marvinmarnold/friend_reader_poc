@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MEET Proof of Concept</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Please log in</string>
+    <string name="feed">Loading feed</string>
+    <string name="app_id">139969379537525</string>
+    <string name="title_activity_list_feed">ListFeedActivity</string>
+
+</resources>
